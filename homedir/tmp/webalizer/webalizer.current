@@ -1,0 +1,827 @@
+# Webalizer V2.23-05 Incremental Data - 08/21/2015 05:10:24
+2015 8 21 5 10 24
+1202 1094 142 48 34 51 108794489 139 130 0
+7 23 54 1 21
+35 33 5379534 8 2 2
+29 24 2138551 13 9 8
+20 17 325181 6 4 4
+34 33 4169014 5 4 4
+58 55 5870735 11 5 5
+113 107 7923276 15 10 8
+45 35 4306984 12 13 11
+14 7 2179989 12 3 3
+56 49 4365302 13 7 7
+65 39 4442270 10 11 8
+110 104 14543642 17 12 12
+38 34 3988342 8 5 5
+33 33 3936534 4 2 2
+106 102 7326973 9 7 7
+40 35 4438775 9 4 4
+61 60 6227983 11 4 4
+87 82 9111715 23 12 11
+93 91 6723756 10 7 7
+95 91 6483118 12 8 8
+11 6 124935 8 6 6
+59 57 4787880 7 4 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+61 57 2595137 3
+46 20 2154138 6
+24 19 2231969 7
+45 37 4313089 8
+4 4 1753810 3
+50 50 2927987 4
+115 113 14101554 10
+54 48 2767414 7
+37 33 2280029 5
+125 122 9212958 8
+63 58 6278747 8
+96 94 10809900 6
+38 36 5962814 5
+60 56 5890153 4
+19 17 445971 3
+20 15 3594381 7
+20 16 7289580 3
+102 99 9453593 9
+40 36 2439534 4
+8 4 475520 2
+57 57 2638757 3
+19 11 2019277 10
+13 7 245506 6
+86 85 6912671 8
+0
+0
+0
+1094
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+18
+0
+0
+0
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/fonts/librebaskerville/librebaskerville-regular-webfont.svg
+0 1 0 186358 0 0
+/sitemap.xml
+0 2 0 1476 0 0
+/favicon.png
+0 5 0 11700 0 0
+/Files/COURSES.pdf
+0 10 0 1691696 0 0
+/js/jquery-migrate-1.2.1.min.js
+0 38 0 273562 0 0
+/css/fonts/opensans/OpenSans-Bold-webfont.svg
+0 25 0 2956475 0 0
+/css/fonts.css
+0 42 0 331884 0 0
+/css/fonts/opensans/OpenSans-Bold-webfont.ttf
+0 21 0 807492 0 0
+/js/modernizr.js
+0 38 0 579234 0 0
+/Files/Devashish_OCASQLDEV.pdf
+0 12 0 16989230 0 0
+/css/fonts/librebaskerville/librebaskerville-regular-webfont.woff
+0 6 0 222768 0 0
+/css/fonts/librebaskerville/librebaskerville-italic-webfont.woff
+0 6 0 307416 0 0
+/images/loader.gif
+0 27 0 87912 0 0
+/Files/GenCV.pdf
+0 17 0 988428 0 0
+/css/layout.css
+0 44 0 1012748 0 0
+/js/jquery.fittext.js
+0 37 0 39738 0 0
+/cgi-sys/suspendedpage.cgi
+0 2 0 7278 2 0
+/css/fonts/opensans/OpenSans-Regular-webfont.woff
+0 6 0 135960 0 0
+/css/fontello/css/fontello.css
+0 43 0 106124 0 0
+/css/font-awesome/css/font-awesome.min.css
+0 42 0 746760 0 0
+/Files/OCA_JavaSE7Programmer_clr.bmp
+0 28 0 16484384 0 0
+/css/fonts/librebaskerville/librebaskerville-regular-webfont.ttf
+0 16 0 1208704 0 0
+/css/fonts/opensans/OpenSans-Bold-webfont.woff
+0 6 0 134592 0 0
+/Files/Devashish_OCAJAVA.pdf
+0 13 0 20390964 0 0
+/images/profilepic.jpg
+0 30 0 5024070 0 0
+/css/fonts/librebaskerville/librebaskerville-italic-webfont.svg
+0 1 0 288537 0 0
+/js/init.js
+0 35 0 177520 0 0
+/images/DB.jpg
+0 28 0 7544488 0 0
+/css/fonts/opensans/OpenSans-Light-webfont.svg
+0 1 0 117270 0 0
+/images/header-background.jpg
+0 28 0 2529940 0 0
+/css/font-awesome/fonts/fontawesome-webfont.ttf
+0 13 0 1048476 0 0
+/css/media-queries.css
+0 48 0 481488 0 0
+/css/fontello/font/fontello.ttf
+0 11 0 65516 0 0
+/js/jquery.flexslider.js
+0 37 0 1920633 0 0
+/css/fontello/font/fontello.woff
+0 6 0 20736 0 0
+/js/magnific-popup.js
+0 37 0 610352 0 0
+/cpanel
+0 2 0 18174 2 0
+/Files/OCA_PLSQLDev_clr.bmp
+0 28 0 15386112 0 0
+/
+0 131 0 2748000 123 35
+/css/fonts/opensans/OpenSans-Regular-webfont.ttf
+0 22 0 841104 0 0
+/css/fonts/opensans/OpenSans-Light-webfont.ttf
+0 13 0 485368 0 0
+/css/font-awesome/fonts/fontawesome-webfont.svg
+0 1 0 202148 0 0
+/css/default.css
+0 45 0 900000 0 0
+/css/fonts/librebaskerville/librebaskerville-italic-webfont.ttf
+0 13 0 1597648 0 0
+/js/waypoints.js
+0 35 0 141295 0 0
+/css/magnific-popup.css
+0 48 0 391440 0 0
+/css/font-awesome/fonts/fontawesome-webfont.woff
+0 6 0 266592 0 0
+/css/fonts/opensans/OpenSans-Light-webfont.woff
+0 6 0 133488 0 0
+# End Of Table - urls
+# -sites- (monthly)
+180.76.15.163
+0 2 2 1910709 0 0
+-
+177.9.145.142
+0 23 23 782186 1 1440133809
+/
+180.76.15.138
+0 2 2 74241 1 1440122598
+/cgi-sys/suspendedpage.cgi
+207.46.13.139
+0 5 4 52200 1 1439772246
+/
+131.221.88.12
+0 11 11 133224 1 1439746084
+/
+54.64.250.137
+0 1 1 22900 1 1439977282
+/
+157.55.39.129
+0 4 3 99525 1 1438388108
+/
+180.76.15.24
+0 1 1 1699247 0 0
+-
+192.99.150.97
+0 4 3 70399 1 1439191993
+/
+180.76.15.10
+0 1 1 10031 0 0
+-
+151.29.232.20
+0 29 29 2399368 1 1439550694
+/
+180.76.15.22
+0 1 0 1699 0 0
+-
+180.76.15.160
+0 2 2 1707078 0 0
+-
+157.55.39.47
+0 2 2 11236 0 0
+-
+37.29.74.39
+0 1 1 22900 1 1439832251
+/
+207.46.13.105
+0 2 2 24651 0 0
+-
+199.16.156.125
+0 2 1 24599 1 1439991181
+/
+157.55.39.117
+0 4 3 34582 0 0
+-
+157.55.39.252
+0 1 1 51909 0 0
+-
+189.26.237.178
+0 24 24 2076984 1 1438884043
+/
+177.74.190.63
+0 29 29 2399368 1 1439716910
+/
+66.249.64.100
+0 17 17 262601 4 1439745745
+/
+180.76.15.23
+0 1 0 0 1 1439937224
+/
+192.99.107.225
+0 1 1 22900 1 1439075420
+/
+180.76.15.151
+0 5 4 3452852 0 0
+-
+180.76.15.26
+0 1 1 16496 0 0
+-
+157.55.39.128
+0 1 1 7902 0 0
+-
+64.246.187.42
+0 2 1 24599 1 1438916440
+/
+207.46.13.4
+0 1 0 1699 0 0
+-
+180.76.15.136
+0 3 2 1708010 2 1439266938
+/cpanel
+66.249.64.90
+0 11 8 91484 0 0
+-
+172.56.39.46
+0 29 29 2203892 1 1439401823
+/
+47.88.18.200
+0 1 1 22900 1 1439773546
+/
+180.76.15.137
+0 1 0 0 1 1438533483
+/
+89.145.95.42
+0 1 1 22900 1 1438999985
+/
+49.150.15.104
+0 25 25 2152528 1 1439584509
+/
+94.23.217.201
+0 1 0 1699 0 0
+-
+177.10.249.163
+0 15 15 213283 1 1439584098
+/
+180.76.15.21
+0 2 2 1715419 0 0
+-
+180.76.15.144
+0 3 3 1840127 0 0
+-
+201.79.243.122
+0 23 23 2073728 1 1439807180
+/
+103.240.171.78
+0 29 29 2087973 1 1439594957
+/
+195.154.157.47
+0 2 1 24599 1 1439593045
+/
+187.58.203.66
+0 29 29 2399368 1 1438859567
+/
+66.249.64.241
+0 29 20 792130 6 1439327976
+/
+216.69.191.242
+0 2 1 24599 1 1439228089
+/
+69.58.178.58
+0 3 2 47499 1 1438942279
+/
+145.255.173.86
+0 11 0 18689 1 1439170402
+-
+190.246.97.112
+0 29 29 2946841 1 1439834347
+/
+199.21.99.198
+0 2 1 24599 1 1439845950
+/
+192.99.107.220
+0 1 0 1699 0 0
+-
+66.249.64.236
+0 27 20 379171 8 1440080669
+/
+192.99.107.223
+0 1 1 22900 1 1440121170
+/
+161.202.72.160
+0 1 1 22900 1 1439843274
+/
+180.76.15.149
+0 2 2 1722147 1 1439881938
+/
+216.38.216.197
+0 17 17 270760 1 1438905376
+/
+157.55.39.223
+0 6 6 91487 0 0
+-
+66.249.75.21
+0 2 1 24599 1 1438681480
+/
+180.76.15.159
+0 2 2 3398494 0 0
+-
+180.76.15.150
+0 2 2 45800 2 1440070600
+/
+195.154.146.225
+0 2 2 45800 2 1438650789
+/
+157.55.39.89
+0 2 1 1700946 0 0
+-
+104.131.40.119
+0 1 0 0 1 1439115971
+-
+157.55.39.251
+0 2 2 20315 0 0
+-
+180.76.15.31
+0 1 1 70602 0 0
+-
+180.76.15.146
+0 2 2 45800 2 1439852515
+/
+100.43.91.22
+0 2 2 45800 1 1439845954
+/
+180.76.15.139
+0 3 3 1730910 2 1439135767
+/cpanel
+176.10.104.243
+0 1 1 22900 1 1440042610
+/
+201.35.234.227
+0 28 28 2393412 1 1439884049
+/
+195.154.194.117
+0 1 1 22900 1 1438778014
+/
+180.76.15.134
+0 2 2 1769525 0 0
+-
+82.53.116.7
+0 24 24 2076984 1 1439878522
+/
+207.46.13.137
+0 6 6 50021 0 0
+-
+89.181.3.128
+0 29 29 2399368 1 1438833100
+/
+179.108.1.209
+0 14 14 208211 1 1439907784
+/
+54.153.93.151
+0 1 1 22900 1 1439619086
+/
+179.234.105.223
+0 29 29 2399368 1 1439286980
+/
+207.46.13.0
+0 2 0 3398 1 1439365607
+-
+92.255.125.83
+0 1 1 22900 1 1438684541
+/
+207.46.13.72
+0 2 1 1700946 0 0
+-
+88.89.5.53
+0 29 29 2399368 1 1439121106
+/
+180.76.15.8
+0 1 1 3639 1 1440095889
+/cgi-sys/suspendedpage.cgi
+197.77.38.211
+0 14 14 205381 1 1438593586
+/
+68.180.229.108
+0 8 3 1989806 0 0
+-
+94.103.80.202
+0 1 1 22900 1 1439417428
+/
+188.40.45.131
+0 1 1 22900 1 1439188370
+/
+157.55.39.140
+0 1 1 1698923 0 0
+-
+77.29.152.62
+0 21 21 1917017 1 1439880231
+/
+180.76.15.155
+0 3 2 78757 1 1439973213
+/
+54.145.69.42
+0 1 1 22900 1 1438938303
+/
+180.76.15.32
+0 1 0 1699 0 0
+-
+192.99.107.232
+0 2 1 24599 1 1438604183
+/
+180.76.15.147
+0 1 1 10031 0 0
+-
+157.55.39.127
+0 2 0 3398 0 0
+-
+71.189.164.218
+0 1 0 1699 0 0
+-
+180.76.15.5
+0 1 1 70602 0 0
+-
+141.8.143.166
+0 1 1 22900 1 1439845954
+/
+103.240.171.157
+0 29 29 2087973 1 1438768049
+/
+174.91.173.23
+0 29 29 2399368 1 1439992137
+/
+157.55.39.42
+0 3 0 5097 0 0
+-
+180.76.15.16
+0 2 1 8898 0 0
+-
+185.92.73.99
+0 1 1 22900 1 1439263478
+/
+180.76.15.17
+0 1 0 1699 0 0
+-
+64.246.165.140
+0 2 1 24599 1 1440108911
+/
+180.76.15.161
+0 3 2 1722147 2 1439542435
+/
+37.48.112.74
+0 1 1 22900 1 1439321068
+/
+177.207.121.139
+0 23 23 1527480 1 1439991303
+/
+179.233.230.23
+0 1 1 22900 1 1439915794
+/
+180.76.15.162
+0 4 2 47499 3 1439588954
+/
+187.13.50.210
+0 29 29 2399368 1 1439621126
+/
+187.75.29.2
+0 29 29 2399368 1 1439187105
+/
+93.144.142.142
+0 29 29 2399368 1 1439288701
+/
+180.76.15.140
+0 1 1 1074 0 0
+-
+122.161.211.246
+0 1 1 549504 0 0
+-
+94.178.248.49
+0 12 1 41589 1 1439170390
+-
+185.49.70.146
+0 1 1 0 1 1439128823
+/
+192.99.107.44
+0 2 1 24599 1 1439418977
+/
+180.76.15.142
+0 3 2 1769849 1 1439634315
+/
+180.76.15.135
+0 1 1 1699247 0 0
+-
+66.249.64.95
+0 17 13 244220 6 1439952926
+/
+186.213.209.134
+0 29 29 2399368 1 1438692488
+/
+180.76.15.6
+0 1 1 70602 0 0
+-
+180.76.15.30
+0 1 1 1698923 0 0
+-
+180.76.15.152
+0 2 2 32931 1 1439120733
+/
+180.76.15.153
+0 1 0 0 1 1439004383
+/
+180.76.15.143
+0 2 2 234362 1 1440070589
+/
+192.99.107.213
+0 1 0 1699 0 0
+-
+66.249.64.246
+0 33 26 564571 5 1439620060
+/
+179.190.161.192
+0 22 22 2326141 1 1438968080
+/
+180.76.15.19
+0 2 0 3398 0 0
+-
+180.76.15.156
+0 2 1 22900 2 1439241116
+/
+201.187.95.117
+0 1 1 22900 1 1439263931
+/
+207.46.13.110
+0 2 2 282064 0 0
+-
+180.76.15.18
+0 1 1 1698923 0 0
+-
+24.6.117.66
+0 90 90 6618696 3 1440115221
+/
+141.8.143.188
+0 6 3 387284 0 0
+-
+64.79.100.37
+0 3 2 47499 1 1438518228
+/
+180.76.15.158
+0 2 1 70602 1 1439329042
+/
+157.55.39.48
+0 1 1 8155 0 0
+-
+220.227.149.86
+0 16 16 1765007 1 1438420144
+/
+189.100.29.20
+0 24 24 2076984 1 1439961614
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+177.9.145.142
+0 23 23 782186 1 1440133809
+/
+180.76.15.138
+0 1 1 3639 1 1440122598
+/cgi-sys/suspendedpage.cgi
+94.23.217.201
+0 1 0 1699 0 0
+-
+180.76.15.144
+0 2 2 1769525 0 0
+-
+192.99.107.220
+0 1 0 1699 0 0
+-
+192.99.107.223
+0 1 1 22900 1 1440121170
+/
+24.6.117.66
+0 30 30 2206232 1 1440115221
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://devashishbadlani.com/js/jquery.fittext.js
+0 1
+http://www.devashishbadlani.com/js/waypoints.js
+0 1
+http://www.devashishbadlani.com/js/modernizr.js
+0 1
+http://www.devashishbadlani.com/js/init.js
+0 1
+http://www.devashishbadlani.com/
+0 45
+http://devashishbadlani.com/js/modernizr.js
+0 1
+http://www.devashishbadlani.com/js/jquery.fittext.js
+0 1
+http://search.aol.com/aol/search
+0 1
+http://devashishbadlani.com/css/fontello/css/fontello.css
+0 2
+http://www.pageglimpse.com/devashishbadlani.com
+0 1
+http://www.devashishbadlani.com/js/jquery.flexslider.js
+0 1
+http://buttons-for-website.com
+0 3
+http://devashishbadlani.com/js/init.js
+0 1
+http://whois.domaintools.com/devashishbadlani.com
+0 2
+http://devashishbadlani.com/js/jquery.flexslider.js
+0 1
+http://devashishbadlani.com/css/fonts.css
+0 10
+http://www.devashishbadlani.com/js/jquery-migrate-1.2.1.min.js
+0 1
+- (Direct Request)
+0 349
+http://devashishbadlani.com/css/font-awesome/css/font-awesome.min.css
+0 2
+http://devashishbadlani.com/js/waypoints.js
+0 1
+http://t.co/wUCgbPLXdG
+0 1
+http://devashishbadlani.com/
+0 741
+http://success-seo.com/try.php
+0 16
+http://devashishbadlani.com/js/jquery-migrate-1.2.1.min.js
+0 1
+http://devashishbadlani.com/js/magnific-popup.js
+0 1
+http://www.devashishbadlani.com
+0 1
+https://www.google.co.in/
+0 2
+http://www.devashishbadlani.com/robots.txt
+0 1
+https://www.linkedin.com/
+0 1
+http://hundejo.com/
+0 1
+http://video--production.com
+0 4
+http://devashishbadlani.com/css/layout.css
+0 2
+http://videos-for-your-business.com
+0 3
+http://www.devashishbadlani.com/js/magnific-popup.js
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 30
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+0 1
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 8
+Twitterbot/1.0
+0 2
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
+0 16
+Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+0 29
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 535
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12
+0 60
+Scrapy/0.24.6 (+http://scrapy.org)
+0 1
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 67
+Mozilla/5.0 (compatible; Lipperhey-Kaus-Australis/5.0; +https://www.lipperhey.com/en/about/)
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 8
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+0 2
+['Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:28.0) Gecko/20100101 Firefox/28.0 GD']
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 122
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 48
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 4
+Python-urllib/3.4
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
+0 29
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
+0 30
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 23
+Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mob
+0 1
+Mozilla
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+0 16
+IE20
+0 1
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 3
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 8
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebkit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 9
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 75
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95  Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0
+0 1
+Mozilla/5.0 (compatible; GimmeUSAbot/1.0; +https://gimmeusa.com/pages/crawler)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:28.0) Gecko/20100101 Firefox/28.0 GD
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safar
+0 29
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

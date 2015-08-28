@@ -1,0 +1,417 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201508 will be lost/reset.
+# Last config file used to build this data file was /home/deebee07/tmp/awstats/awstats.devashishbadlani.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2683                
+POS_VISITOR 8375                
+POS_DAY 10666               
+POS_DOMAIN 3445                
+POS_LOGIN 3946                
+POS_ROBOT 4101                
+POS_WORMS 4503                
+POS_EMAILSENDER 4634                
+POS_EMAILRECEIVER 4777                
+POS_SESSION 11206               
+POS_SIDER 11363               
+POS_FILETYPES 4912                
+POS_DOWNLOADS 5168                
+POS_OS 5364                
+POS_BROWSER 5569                
+POS_SCREENSIZE 6112                
+POS_UNKNOWNREFERER 6186                
+POS_UNKNOWNREFERERBROWSER 6507                
+POS_ORIGIN 6692                
+POS_SEREFERRALS 6830                
+POS_PAGEREFS 6993                
+POS_SEARCHWORDS 7365                
+POS_KEYWORDS 7517                
+POS_MISC 2347                
+POS_ERRORS 7576                
+POS_CLUSTER 3802                
+POS_SIDER_404 7666                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150821051024 67 15483 16500880599136
+FirstTime 0
+LastTime 20150821051024
+LastUpdate 20150821052209 67 0 67 0 0
+TotalVisits 55                  
+TotalUnique 52                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 53                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 30 2206232 3 31 388905
+1 3 3 68700 21 43 2085438
+2 0 0 0 7 24 2231969
+3 11 32 2468068 6 13 1845021
+4 0 0 0 3 4 1753810
+5 9 48 2882070 1 2 45917
+6 23 105 8838537 4 10 5263017
+7 10 31 2462112 4 23 305302
+8 8 30 2206232 5 7 73797
+9 27 118 8879997 3 7 332961
+10 14 55 4541796 4 8 1736951
+11 24 87 7198104 3 9 3611796
+12 11 32 2468068 1 6 3494746
+13 11 52 3926848 2 8 1963305
+14 1 14 208211 2 5 237760
+15 0 0 0 7 20 3594381
+16 1 1 22900 2 19 7266680
+17 21 93 7655898 3 9 1797695
+18 3 24 2076984 3 16 362550
+19 1 1 22900 1 7 452620
+20 6 41 2388711 1 16 250046
+21 0 0 0 10 19 2019277
+22 1 1 22900 5 12 222606
+23 19 77 5114469 3 9 1798202
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+br 81 371 28097517
+us 42 143 9253648
+it 19 82 6875720
+in 17 75 6490457
+ca 12 33 2490968
+pt 8 29 2399368
+no 8 29 2399368
+ph 4 25 2152528
+ar 4 29 2946841
+ru 3 3 68700
+fr 3 3 68700
+ch 2 2 45800
+mk 2 21 1917017
+de 2 12 156124
+ua 1 1 22900
+cl 1 1 22900
+gb 1 1 22900
+za 1 14 205381
+nl 1 1 22900
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 114 2342599 20150820142429 0
+spider 67 32153377 20150821044113 0
+bot[\s_+:,\.\;\/\\-] 49 6312629 20150821013930 0
+slurp 3 1981311 20150814195748 0
+[\s_+:,\.\;\/\\-]bot 2 170725 20150819015525 0
+no_user_agent 1 0 20150809140023 0
+crawl 1 22900 20150808021305 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 227 2912597 0 0
+png 5 11700 0 0
+bmp 56 31870496 0 0
+ttf 109 6054308 0 0
+woff 42 1221552 0 0
+html 61 1396900 0 0
+js 235 3425711 0 0
+jpg 85 14931029 0 0
+gif 26 84656 0 0
+svg 29 3750788 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/Files/GenCV.pdf 14 0 988428
+/Files/Devashish_OCAJAVA.pdf 12 0 20390964
+/Files/Devashish_OCASQLDEV.pdf 10 0 16989230
+/Files/COURSES.pdf 8 0 1691696
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+linuxandroid 1 1
+winxp 6 5
+ios_iphone 29 8
+linux 4 4
+win7 646 142
+macosx 90 24
+win8 16 1
+macosx9 1 1
+Unknown 7 7
+win8.1 58 16
+macosx7 17 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 25
+chrome44.0.2403.125 45 9
+msie6.0 4 4
+firefox28.0 1 1
+safari8.0.8 30 8
+chrome44.0.2403.130 1 0
+chrome44.0.2403.155 29 8
+chrome39.0.2171.95 2 2
+safari8.0.7 60 16
+chrome13.0.782.215 17 3
+chrome32.0.1700.107 75 16
+chrome19.0.1042.0 1 1
+firefox31.0 1 1
+chrome44.0.2403.107 1 1
+firefox2.0.0.11 1 1
+msie11.0 1 1
+chrome36.0.1985.143 535 111
+chrome18.0.1025.133 1 1
+mozilla 2 2
+chrome35.0.1916.153 30 9
+firefox14.0.1 2 2
+chrome37.0.2062.120 1 1
+firefox23.0 1 1
+safari8.0 29 8
+Unknown 4 4
+netscape 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+IE20 20150811192428
+Mozilla 20150802122348
+Scrapy/0.24.6_(_http://scrapy.org) 20150810063250
+Python-urllib/3.4 20150819094122
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20150810073312
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+IE20 20150811192428
+Scrapy/0.24.6_(_http://scrapy.org) 20150810063250
+Python-urllib/3.4 20150819094122
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 26 26
+From1 0 0
+From2 2 3
+From3 29 29
+From4 155 817
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 2
+aol 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://success-seo.com/try.php 16 16
+http://video--production.com 4 4
+http://videos-for-your-business.com 3 3
+http://buttons-for-website.com 3 3
+https://www.linkedin.com 1 1
+http://t.co/wUCgbPLXdG 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 90 151211
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 16
+/section/wp-login.php 2 -
+/README.md 1 -
+/www.srmuniv.ac.in 2 -
+/robots.txt 62 -
+/wp-login/ 2 -
+/cms/wp-login.php 2 -
+/wordpress/wp-login.php 2 -
+/www.barbeque-nation.com/ 1 -
+/www.carmelneemuch.in 3 -
+/blog/wp-login.php 2 -
+/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/admin/wp-login.php 2 -
+/wp-admin/wp-login.php 2 -
+/wp-login.php 2 -
+/site/wp-login.php 2 -
+/wp/wp-login.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 53
+24.6.117.66 24 90 6618696 20150821000022
+103.240.171.157 8 29 2087973 20150805094739
+187.75.29.2 8 29 2399368 20150810061156
+88.89.5.53 8 29 2399368 20150809115149
+89.181.3.128 8 29 2399368 20150806035144
+179.234.105.223 8 29 2399368 20150811095623
+151.29.232.20 8 29 2399368 20150814111136
+177.74.190.63 8 29 2399368 20150816092159
+186.213.209.134 8 29 2399368 20150804124812
+174.91.173.23 8 29 2399368 20150819134906
+103.240.171.78 8 29 2087973 20150814232931
+93.144.142.142 8 29 2399368 20150811102504
+187.58.203.66 8 29 2399368 20150806111252
+187.13.50.210 8 29 2399368 20150815064535
+172.56.39.46 8 29 2203892 20150812175025
+201.35.234.227 7 28 2393412 20150818074742
+179.190.161.192 6 22 2326141 20150807172131
+177.9.145.142 5 23 782186 20150821051024 20150821051009 /css/fonts/opensans/OpenSans-Light-webfont.ttf
+49.150.15.104 4 25 2152528 20150814203524
+190.246.97.112 4 29 2946841 20150817175922
+216.38.216.197 3 17 270760 20150806235616
+192.99.150.97 3 3 68700 20150810073313
+189.100.29.20 3 24 2076984 20150819052028
+201.79.243.122 3 23 2073728 20150817102632
+177.207.121.139 3 23 1527480 20150819133555
+201.187.95.117 1 1 22900 20150811033211
+195.154.146.225 2 2 45800 20150804011309
+177.10.249.163 1 15 213283 20150814202818
+37.29.74.39 1 1 22900 20150817172411
+54.64.250.137 1 1 22900 20150819094122
+185.92.73.99 1 1 22900 20150811032438
+69.58.178.58 2 2 45800 20150807101119
+189.26.237.178 3 24 2076984 20150806180052
+216.69.191.242 1 1 22900 20150810173449
+37.48.112.74 1 1 22900 20150811192428
+94.178.248.49 1 1 22900 20150810013302
+82.53.116.7 3 24 2076984 20150818061533
+131.221.88.12 1 11 133224 20150816172804
+179.108.1.209 1 14 208211 20150818142304
+176.10.104.243 1 1 22900 20150820035010
+195.154.194.117 1 1 22900 20150805123334
+179.233.230.23 1 1 22900 20150818163634
+64.79.100.37 2 2 45800 20150802122348
+161.202.72.160 1 1 22900 20150817202754
+77.29.152.62 2 21 1917017 20150818064355
+122.161.211.246 0 1 549504 
+188.40.45.131 1 1 22900 20150810063250
+94.103.80.202 1 1 22900 20150812221028
+47.88.18.200 1 1 22900 20150817010546
+54.153.93.151 1 1 22900 20150815061126
+220.227.149.86 1 16 1765007 20150801090904
+197.77.38.211 1 14 205381 20150803091946
+92.255.125.83 1 1 22900 20150804103541
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20150801 1 16 1765007 1
+20150802 2 2 45800 1
+20150803 2 15 228281 2
+20150804 10 31 2445168 3
+20150805 9 30 2110873 2
+20150806 22 100 7695984 4
+20150807 8 24 2371941 2
+20150809 8 29 2399368 1
+20150810 14 35 2536768 5
+20150811 27 91 7073668 6
+20150812 9 30 2226792 2
+20150813 8 30 2206232 1
+20150814 21 98 6853152 4
+20150815 9 30 2422268 2
+20150816 9 40 2532592 2
+20150817 10 55 5089269 5
+20150818 14 88 6618524 5
+20150819 15 77 6026732 4
+20150820 1 1 22900 1
+20150821 13 53 2988418 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 53
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 61 1396900 55 27
+/css/fonts/opensans/OpenSans-Regular-webfont.ttf 22 841104 0 1
+/css/fonts/opensans/OpenSans-Bold-webfont.ttf 21 807492 0 5
+/css/fonts/librebaskerville/librebaskerville-regular-webfont.ttf 16 1208704 0 2
+/css/fonts/opensans/OpenSans-Light-webfont.ttf 13 485368 0 2
+/css/fonts/librebaskerville/librebaskerville-italic-webfont.ttf 13 1597648 0 4
+/css/font-awesome/fonts/fontawesome-webfont.ttf 13 1048476 0 0
+/css/fontello/font/fontello.ttf 11 65516 0 7
+/css/fonts/opensans/OpenSans-Regular-webfont.woff 6 135960 0 0
+/css/fonts/librebaskerville/librebaskerville-regular-webfont.woff 6 222768 0 0
+/css/fonts/opensans/OpenSans-Bold-webfont.woff 6 134592 0 2
+/css/fonts/librebaskerville/librebaskerville-italic-webfont.woff 6 307416 0 2
+/css/fonts/opensans/OpenSans-Light-webfont.woff 6 133488 0 2
+/css/fontello/font/fontello.woff 6 20736 0 0
+/css/font-awesome/fonts/fontawesome-webfont.woff 6 266592 0 0
+END_SIDER

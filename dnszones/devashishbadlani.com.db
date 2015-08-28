@@ -1,0 +1,39 @@
+; cPanel first:11.48.1.1 (update_time):1438768970 11.48.1.2: Cpanel::ZoneFile::VERSION:1.3 hostname:a2plcpnl0097.prod.iad2.secureserver.net latest:11.50.0.23
+; Zone file for devashishbadlani.com
+$TTL 14400
+@      86400	IN      SOA     10.255.250.30. hostingex.godaddy.com. (
+		2015080500	; serial, todays date+todays
+		86400		; refresh, seconds
+		7200		; retry, seconds
+		3600000		; expire, seconds
+		86400 )		; minimum, seconds
+
+devashishbadlani.com. 86400 IN NS 10.255.250.30.
+devashishbadlani.com. 86400 IN NS 10.255.251.30.
+
+
+devashishbadlani.com. IN A 107.180.2.134
+
+devashishbadlani.com. IN MX 0 devashishbadlani.com.
+
+mail IN CNAME devashishbadlani.com.
+www IN CNAME devashishbadlani.com.
+ftp IN A 107.180.2.134
+cpanel IN A 107.180.2.134
+webdisk IN A 107.180.2.134
+whm IN A 107.180.2.134
+webmail IN A 107.180.2.134
+autoconfig IN A 107.180.2.134
+autodiscover IN A 107.180.2.134
+_autodiscover._tcp IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+default._domainkey IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCqESw6YmN+MMSZyev8MyNjJV7XfgX+FMZXnOGCgCRhNlUHud2xwuU1wR1yMSoRHHdeyPDWM+u8VJE4ItofDtmijD8rAy+CJT8/xD8MLeTgTJY0nQCk0jm/VWI+iID64YLpktnhCqN/YvZ1PVhMWw2BoUtrkJ4uHYfudrrfbgbjrQIDAQAB;"
+cpcalendars IN A 107.180.2.134
+_caldav._tcp IN SRV 0 0 2079 a2plcpnl0097.prod.iad2.secureserver.net.
+_caldavs._tcp IN SRV 0 0 2080 a2plcpnl0097.prod.iad2.secureserver.net.
+_carddav._tcp IN SRV 0 0 2079 a2plcpnl0097.prod.iad2.secureserver.net.
+_carddavs._tcp IN SRV 0 0 2080 a2plcpnl0097.prod.iad2.secureserver.net.
+_caldav._tcp IN TXT path=/
+_caldavs._tcp IN TXT path=/
+_carddav._tcp IN TXT path=/
+_carddavs._tcp IN TXT path=/
+cpcontacts IN A 107.180.2.134
